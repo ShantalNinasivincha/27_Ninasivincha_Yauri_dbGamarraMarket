@@ -20,8 +20,7 @@ La base de datos `dbGamarraMarket` incluye las siguientes tablas:
 
 - [Requisitos](#requisitos)  
 - [Cómo Ejecutar el Script](#cómo-ejecutar-el-script)  
-- [Contribución](#contribución)  
-- [Licencia](#licencia)  
+
 
 ## Requisitos  
 
